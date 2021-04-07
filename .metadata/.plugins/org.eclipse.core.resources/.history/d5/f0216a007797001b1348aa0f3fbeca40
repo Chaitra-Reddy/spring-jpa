@@ -1,0 +1,5 @@
+package com.practice.school.model;
+
+public class Subject {
+
+}

@@ -1,0 +1,11 @@
+package com.practice.school.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.practice.school.model.Student;
+import com.practice.school.model.Subject;
+
+public interface SubjectRepository extends JpaRepository<Subject, Long> 
+{
+
+}

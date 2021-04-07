@@ -1,0 +1,5 @@
+package com.example.covid.exception;
+
+public class ColorNotFoundException {
+
+}
