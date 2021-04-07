@@ -1,0 +1,6 @@
+package com.practice.shop.service;
+
+public interface ItemService 
+{
+
+}

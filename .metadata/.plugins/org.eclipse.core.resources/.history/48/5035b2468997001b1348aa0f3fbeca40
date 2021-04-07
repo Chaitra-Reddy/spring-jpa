@@ -1,0 +1,5 @@
+package com.practice.shop.exception.item;
+
+public class ItemServiceException {
+
+}

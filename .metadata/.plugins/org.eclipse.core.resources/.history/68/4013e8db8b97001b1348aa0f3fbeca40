@@ -1,0 +1,9 @@
+package com.practice.shop.service;
+
+import com.practice.shop.exception.customer.CustomerServiceException;
+import com.practice.shop.model.Customer;
+
+public interface CustomerService 
+{
+	public Customer createCustomer(Customer customer) throws CustomerServiceException;
+}
