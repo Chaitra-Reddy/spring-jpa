@@ -1,0 +1,63 @@
+* {
+	margin-left : auto;
+	margin-right : auto;
+}
+
+body
+{
+	background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/resources/pictures/back.jpg);
+	background-size: cover;
+    background-position: center;
+}
+
+h1 {
+	margin-left : 38%;
+	color : white;
+}
+
+.dataTable {
+	width: 500px;
+	border: 5px solid #000000;
+	padding: 50px;
+	margin-left : auto;
+	margin-right : auto;
+	background-color : #DC859A;
+	border-radius : 10%;
+	opacity : 0.8;
+}
+
+#tab td {
+	padding-top: 12px;
+  	padding-bottom: 12px;
+  	padding-left: 30px;
+  	padding-right: 30px;
+  	text-align: center;
+  	background-color: #AB76A8;
+  	color: black;
+}
+
+#tab th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  background-color: #EBBFE9;
+  color: white;
+}
+
+button {
+	padding : 12px;
+	background-color : #366C8F;
+	margin-top: 30px;
+	color: wheat;
+	font-weight: bold;
+	border-radius: 10%;
+	margin-left: 45%;
+}
+
+button:hover {
+	cursor : pointer;
+	background-color : #596F7D;
+}
+

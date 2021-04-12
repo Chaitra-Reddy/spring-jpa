@@ -1,8 +1,6 @@
 package com.practice.shop.exception.customer;
 
-import com.practice.shop.exception.ServiceException;
-
-public class CustomerServiceException extends ServiceException
+public class CustomerServiceException extends Exception
 {
 
 	/**

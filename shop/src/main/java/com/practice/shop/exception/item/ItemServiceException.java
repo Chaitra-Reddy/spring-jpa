@@ -1,8 +1,6 @@
 package com.practice.shop.exception.item;
 
-import com.practice.shop.exception.ServiceException;
-
-public class ItemServiceException extends ServiceException
+public class ItemServiceException extends Exception
 {
 
 	/**

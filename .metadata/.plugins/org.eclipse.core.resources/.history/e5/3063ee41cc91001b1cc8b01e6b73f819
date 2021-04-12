@@ -1,9 +1,0 @@
-package com.example.covid.service;
-
-import com.example.covid.entity.Zone;
-import com.example.covid.exception.ServiceException;
-
-public interface ZoneService 
-{
-	public int addZone(Zone zone) throws ServiceException;
-}
